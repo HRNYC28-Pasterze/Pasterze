@@ -40,10 +40,9 @@ This results in expedient retrieval and write speeds given that the keyspace des
 throughput for web-scale traffic, Andrew implemented an AWS Kubernetes load balancer that assisted in distributing requests dynamically
 to the web server. 
 
-![Image of Initial Test]
-(https://ibb.co/NjkNBMK)
-![Image of Final Test]
-(https://ibb.co/YtckK8b)
+![Image of Initial Test](https://ibb.co/NjkNBMK)
+![Image of Final Test](https://ibb.co/YtckK8b)
+
 A video summary of this process can be found here: https://drive.google.com/file/d/1FEwcyGkvtCDNXVAuXPHj3AXVoN3jUHvH/view
 
 <!-- omit in TOC -->
